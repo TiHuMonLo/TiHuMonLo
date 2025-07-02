@@ -36,8 +36,7 @@ Apasionado por la tecnología, el aprendizaje constante y la resolución de prob
 <p align="left">
   <a href="mailto:thmontiel27@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script> target="_blank"><img 
-
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
   
   
 </p>
