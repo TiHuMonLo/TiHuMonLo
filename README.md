@@ -27,7 +27,7 @@ Apasionado por la tecnología, el aprendizaje constante y la resolución de prob
 ### 🚀 Proyectos destacados
 
 - [🌐 Portafolio Web](https://github.com/TiHuMonLo/portafolio-html-css): Sitio personal desarrollado con HTML y CSS puro.  
-- [🔗 Acortador de enlaces](https://github.com/TiHuMonLo/link-shortener): Proyecto tipo Bit.ly utilizando Node.js y MongoDB (en progreso).
+
 
 ---
 
