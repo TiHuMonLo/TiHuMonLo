@@ -26,7 +26,7 @@ Apasionado por la tecnología, el aprendizaje constante y la resolución de prob
 
 ### 🚀 Proyectos destacados
 
-- [🌐 Portafolio Web](https://github.com/TiHuMonLo/portafolio-html-css): Sitio personal desarrollado con HTML y CSS puro.  
+- [🌐 Portafolio Web](https://github.com/TiHuMonLo/mi_portafolio: Sitio personal desarrollado con HTML y CSS puro.  
 
 
 ---
